@@ -1,4 +1,4 @@
-# cs100f2018-class_material
+# CMPSC-100-01-Class-Material
 
 ## Introduction
 
@@ -14,7 +14,7 @@ When the course instructor provides the new material for the in-class activity,
  you can type this command in the main directory for this repository:
 
 ```
-git remote add download git@github.com:Allegheny-Computer-Science-100-01-F2018/CMPSC-100-01-Class-Material.git 
+git remote add download git@github.com:Allegheny-Computer-Science-100-01-F2018/CMPSC-100-01-Class-Material.git
 ```
 
 You should only need to type this command once; typing the command additional
